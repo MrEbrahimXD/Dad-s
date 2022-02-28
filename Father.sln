@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Father", "Father\Father.csproj", "{D9A8B606-DBF7-4C9F-96B8-5309116DE3FC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MedTracker_Setup", "..\..\..\OneDrive\Desktop\Productivity\Photos\XD\MrEbrahimXD\Program\MedTracker_Setup\MedTracker_Setup.vdproj", "{F3A089E0-EE66-4193-B88E-1ECB246E7ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A8B606-DBF7-4C9F-96B8-5309116DE3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A8B606-DBF7-4C9F-96B8-5309116DE3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A8B606-DBF7-4C9F-96B8-5309116DE3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A8B606-DBF7-4C9F-96B8-5309116DE3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A089E0-EE66-4193-B88E-1ECB246E7ABB}.Debug|Any CPU.ActiveCfg = Debug
+		{F3A089E0-EE66-4193-B88E-1ECB246E7ABB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66161E35-60CD-46A4-BB51-D1F4808DDECD}
+	EndGlobalSection
+EndGlobal
